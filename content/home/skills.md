@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Libraries: Tensorflow 2.0, sklearn, numpy, matplotlib"
+  description = ""
   
 [[feature]]
   icon = "overleaf"
