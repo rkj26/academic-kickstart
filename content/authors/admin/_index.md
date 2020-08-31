@@ -39,9 +39,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rkj26@cam.ac.uk'  # For a direct email link, use "".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rkj26
