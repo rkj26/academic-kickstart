@@ -45,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rkj26
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/rkj26
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -56,9 +59,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Hi there, I am Rakshit.  I am an undergraduate student at Cambridge University.  I am majoring in Information Engineering.  I worked as a software intern at Fifthrow Tech in London where I helped to develop and deploy APIs, and built models to analyse customer data and twitter bots.  I love learning new technologies and have worked on various projects including text generation using LSTMs, creating human like voice using CNNs, and image generation using GANs. In my free time I love a game of chess or cooking a good meal.
