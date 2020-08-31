@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am 19 year old from India studying at Cambridge. My interests are in machine learning and deep learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Information Theory
+- Reinforcement Learning
 
 education:
   courses:
@@ -38,16 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:rkj26@cam.ac.uk'  # For a direct email link, use "".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rkj26
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -64,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, there! I am Rakshit, 3rd year engineering student! I am passionate about machine learning, deep learning and reinforcement learning. I love to play chess to relax!
+Hi, there! I am Rakshit, 3rd year engineering student! I am passionate about machine learning, deep learning and reinforcement learning. I have interned at a startup Fifthrow Tech building API clients, automating release process and customer analytics and support. In my free time you can find me with a chessboard or on chess.com playing a game of chess, or playing cricket (if there is sunshine and space).
