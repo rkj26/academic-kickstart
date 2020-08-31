@@ -61,4 +61,5 @@ user_groups:
 - Visitors
 ---
 
-Hi, there! I am Rakshit, 3rd year engineering student! I am passionate about machine learning, deep learning and reinforcement learning. I have interned at a startup Fifthrow Tech building API clients, automating release process and customer analytics and support. In my free time you can find me with a chessboard or on chess.com playing a game of chess, or playing cricket (if there is sunshine and space).
+Hi there, I am Rakshit.  I am an undergraduate student at Cambridge University.  I am majoring in Information Engineering.  I worked as a software intern at Fifthrow Tech in London where I helped to develop and deploy APIs, and built models to analyse customer data and twitter bots.  I love learning new technologies and have worked on various projects including text generation using LSTMs, creating human like voice using CNNs, and image generation using GANs. In my free time I love a game of chess or cooking a good meal.
+(Summarized using GPT3)
